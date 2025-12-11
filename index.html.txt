@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Test Product – System Verification Only</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Canonical -->
+<link rel="canonical" href="https://raqipls.com/products/test-product-system-verification-only">
+
+<!-- Basic clean styling -->
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background: #ffffff;
+    margin: 40px auto;
+    max-width: 700px;
+    line-height: 1.7;
+    color: #222;
+  }
+  h1 { font-size: 28px; font-weight: bold; margin-bottom: 10px; }
+  img { width: 260px; border-radius: 4px; margin-bottom: 20px; }
+  .box {
+    padding: 15px;
+    background: #fdf7d7;
+    border-left: 4px solid #c5a400;
+    margin-top: 20px;
+  }
+</style>
+
+</head>
+<body>
+
+<h1>Test Product – System Verification Only</h1>
+
+<img src="https://raqipls.com/cdn/shop/files/Gemini_Generated_Image_klchxhklchxhklch.png?v=1765426217" alt="Test Product Image">
+
+<p><strong>Description:</strong> This is a test product used solely for system verification and account setup. Not for sale.</p>
+
+<p><strong>Price:</strong> $10.00</p>
+<p><strong>Availability:</strong> In Stock</p>
+<p><strong>Condition:</strong> New</p>
+<p><strong>Brand:</strong> TestBrand</p>
+<p><strong>MPN:</strong> TEST1235</p>
+<p><strong>SKU:</strong> TEST1235_US</p>
+
+<div class="box">
+  This static No-JS page is used to verify system accuracy and ensure clean data for Google Merchant Center.
+</div>
+
+</body>
+</html>
