@@ -14,21 +14,57 @@
     font-family: Arial, sans-serif;
     background: #ffffff;
     margin: 40px auto;
-    max-width: 700px;
+    max-width: 750px;
     line-height: 1.7;
     color: #222;
   }
-  h1 { font-size: 28px; font-weight: bold; margin-bottom: 10px; }
-  img { width: 260px; border-radius: 4px; margin-bottom: 20px; }
+  h1 { 
+    font-size: 28px; 
+    font-weight: bold; 
+    margin-bottom: 20px; 
+  }
+  img { 
+    width: 300px; 
+    border-radius: 6px; 
+    margin-bottom: 25px; 
+  }
   .box {
     padding: 15px;
     background: #fdf7d7;
     border-left: 4px solid #c5a400;
-    margin-top: 20px;
+    margin-top: 25px;
   }
+  p { font-size: 16px; margin: 8px 0; }
+  strong { font-weight: bold; }
 </style>
 
+<!-- Structured Data JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "Test Product – System Verification Only",
+  "image": "https://raqipls.com/cdn/shop/files/Gemini_Generated_Image_klchxhklchxhklch.png?v=1765426217",
+  "description": "This is a test product used solely for system verification and account setup. Not for sale.",
+  "sku": "TEST1235_US",
+  "mpn": "TEST1235",
+  "brand": {
+    "@type": "Brand",
+    "name": "TestBrand"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://eshtrakgo-rgbc.github.io/nojs-test-product/",
+    "priceCurrency": "USD",
+    "price": "10.00",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition"
+  }
+}
+</script>
+
 </head>
+
 <body>
 
 <h1>Test Product – System Verification Only</h1>
